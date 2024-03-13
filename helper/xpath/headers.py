@@ -1,0 +1,12 @@
+language_ua = '//a[contains(text(),"ua") and @class="language-select"]'
+language_ru = '//a[contains(text(),"ru") and @class="language-select"]'
+delivery_and_payment_ua = 'Доставка і оплата'
+return_and_replacement_ua = 'Повернення/заміна'
+contacts_ua = 'Контакти'
+help_ua = 'Допомога'
+path_delivery_and_payment = 'dostavka-i-oplata'
+path_return_and_replacement = 'vozvrat-zamena'
+path_contacts = 'kontakty'
+path_help = 'help'
+def pages_xpath_template(page_xpath):
+    return f'//header//ul[contains(@class,"top-menu")]/li/a[contains(@href,"{page_xpath}.html")]'
