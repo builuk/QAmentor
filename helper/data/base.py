@@ -1,0 +1,12 @@
+sneakers_image = "https://killa.com.ua/image/cache/catalog/image/cache/catalog/0001/00003/0001/i4739854-3-400x300.webp"
+site_title = '【Военторг】 , армейский магазин, военный магазин Killa в Киеве и по всей Украине'
+about_title = 'О магазине'
+site_title_ua = 'Військторг, армійський магазин, військовий магазин Killa в Києві і по всій Україні'
+about_title_ua = 'Про нас'
+delivery_and_payment_ua = 'Доставка і оплата'
+return_and_replacement_ua = 'Повернення/заміна'
+contacts_ua = 'Контакти'
+help_ua = 'Допомога'
+default_size = '1920,1080'
+mobile_size = '300,500'
+tablet_size = '600,800'
