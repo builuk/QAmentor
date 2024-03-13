@@ -23,5 +23,5 @@ Feature: Check titles on all pages in ua language
       | path_contacts               | contacts_ua               |
       | path_help                   | help_ua                   |
 
-  Scenario Outline: Diferrent window size
+  Scenario Outline: Diferrent window size1
     When I open Homepage custom size screen "{size}"
