@@ -11,7 +11,7 @@ Feature: Check titles on all pages in ua language
 
   Scenario: Title on About page in ua
     Then I click on About button
-    Given I see title "site_title_ua"
+    Given I see title "about_title_ua"
 
   Scenario Outline: Titles on on ua language pages
     Then I click on "<button>" button
